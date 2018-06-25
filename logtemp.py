@@ -4,8 +4,6 @@ import Adafruit_DHT
 import time
 import datetime
 
-horario = datetime.datetime.now()
-
 sensor = Adafruit_DHT.DHT22
 pin = 14
 
